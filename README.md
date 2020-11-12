@@ -10,3 +10,23 @@ My courses are :
 -## Code 201 Foundations of Software Development.
 -## Code 301 Intermediate Software Development.
 -## Code 401 Advanced Software Development.
+
+##Table of my reading assignments
+
+Read#   |  Link
+-----------|-----------
+Read1      | [Class01]()
+Read2      | [Class02]()
+Read3      | [Class03]()
+Read4      | [Class04]()
+Read5      | [Class05]()
+Read6      | [Class06]()
+Read7      | [Class07]()
+Read8      | [Class08]()
+Read9      | [Class09]()
+Read10     | [Class10]()
+Read11     | [Class11]()
+Read12     | [Class12]()
+Read13     | [Class13]()
+Read14     | [Class14]()
+Read15     | [Class15]()
