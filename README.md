@@ -15,7 +15,7 @@ My courses are :
 
 Read#   |  Link
 -----------|-----------
-Read1      | [Class01]()
+Read1      | [Class01](https://aseelsamer.github.io/reading-notes/read01)
 Read2      | [Class02]()
 Read3      | [Class03]()
 Read4      | [Class04]()
