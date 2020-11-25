@@ -25,7 +25,7 @@ Read7      | [Class07](https://aseelsamer.github.io/reading-notes/read07)
 
 Read8      | [Class08](https://aseelsamer.github.io/reading-notes/read07)
 Read9      | [Class09](https://aseelsamer.github.io/reading-notes/read09)
-Read10     | [Class10]()
+Read10     | [Class10](https://aseelsamer.github.io/reading-notes/read10)
 Read11     | [Class11]()
 Read12     | [Class12]()
 Read13     | [Class13]()
