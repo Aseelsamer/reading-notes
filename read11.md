@@ -22,13 +22,17 @@ let html = ejs.render('<%= people.join(", "); %>', {people: people});
 
 
 Download a browser build from the latest release, and use it in a script tag.
-<!-- <script src="ejs.js"></script>
+
+
+<script src="ejs.js"></script>
 <script>
   let people = ['geddy', 'neil', 'alex'];
   let html = ejs.render('<%= people.join(", "); %>', {people: people});
-</script> -->
+</script>
 
 -EXAMPLE OF EJS :
+
+
 <% if (user) { %>
   <h2><%= user.name %></h2>
 <% } %>
